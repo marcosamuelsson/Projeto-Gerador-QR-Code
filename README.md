@@ -154,13 +154,9 @@ Para contribuir:
 4. Push para a branch (`git push origin feature/nova-funcionalidade`).
 5. Abra um Pull Request.
 
-## Licença
-
-Este projeto é de código aberto e está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes (adicione um se não existir).
-
 ## Autor
 
-Desenvolvido por [Seu Nome] como projeto pessoal para aprendizado e uso prático.
+Desenvolvido por [Marco Antônio Samuelsson] como projeto pessoal para aprendizado e uso prático.
 
 ## Agradecimentos
 
