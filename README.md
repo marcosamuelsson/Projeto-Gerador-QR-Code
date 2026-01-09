@@ -156,7 +156,7 @@ Para contribuir:
 
 ## Autor
 
-Desenvolvido por [Marco Antônio Samuelsson] como projeto pessoal para aprendizado e uso prático.
+Desenvolvido por Marco Antônio Samuelsson como projeto pessoal para aprendizado e uso prático.
 
 ## Agradecimentos
 
